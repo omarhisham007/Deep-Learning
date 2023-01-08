@@ -1,4 +1,3 @@
-# Deep-Learning
 # Gender_model.ipynb
 *   **UTK Face Dataset** images have labels embedded in their name, as per the following nomenclature:
  * [age]\_[gender]\_[race]\_[time].jpg
